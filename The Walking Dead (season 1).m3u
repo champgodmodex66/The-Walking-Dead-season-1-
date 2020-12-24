@@ -1,0 +1,20 @@
+#EXTM3U 
+#PLAYLIST:THE WALKING DEAD
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1 พากย์ไทย" tvg-logo="https://en.wikipedia.org/wiki/File:TheWalkingDeadPoster.jpg" ,EP1
+#EXTGRP:THE WALKING DEAD
+https://links.nanacdn.com/hls/efd945f4e9e76d5213f7b9e51c38b04e/efd945f4e9e76d5213f7b9e51c38b04e.m3u8?secure=01581816151858401c1b16091f56580e13171f58404b4c4a424c4e4a434f48424f4c07
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1 พากย์ไทย" tvg-logo="https://en.wikipedia.org/wiki/File:TheWalkingDeadPoster.jpg" ,EP2
+#EXTGRP:THE WALKING DEAD
+https://links.nanacdn.com/hls/e322c8ed757e6b10d5e56218eaebd62e/e322c8ed757e6b10d5e56218eaebd62e.m3u8?secure=01581816151858401c1b16091f56580e13171f58404b4c4a424c4e4b4a434d434a4e07
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1 พากย์ไทย" tvg-logo="https://en.wikipedia.org/wiki/File:TheWalkingDeadPoster.jpg" ,EP3
+#EXTGRP:THE WALKING DEAD
+https://links.nanacdn.com/hls/c069061daf2dbe2e3ba48a9965b30ed9/c069061daf2dbe2e3ba48a9965b30ed9.m3u8?secure=01581816151858401c1b16091f56580e13171f58404b4c4a424c4e4b4b4f4a42484e07
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1 พากย์ไทย" tvg-logo="https://en.wikipedia.org/wiki/File:TheWalkingDeadPoster.jpg" ,EP4
+#EXTGRP:THE WALKING DEAD
+https://links.nanacdn.com/hls/64730845e70d845dfeb72d88d4d95a1c/64730845e70d845dfeb72d88d4d95a1c.m3u8?secure=01581816151858401c1b16091f56580e13171f58404b4c4a424c4e4b484a4e4e4d4207
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1 พากย์ไทย" tvg-logo="https://en.wikipedia.org/wiki/File:TheWalkingDeadPoster.jpg" ,EP5
+#EXTGRP:THE WALKING DEAD
+https://links.nanacdn.com/hls/5c8fd3a21d1d2f1fc17f3e3dce7a3c27/5c8fd3a21d1d2f1fc17f3e3dce7a3c27.m3u8?secure=01581816151858401c1b16091f56580e13171f58404b4c4a424c4e4b484f4949494f07
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1 พากย์ไทย" tvg-logo="https://en.wikipedia.org/wiki/File:TheWalkingDeadPoster.jpg" ,EP6
+#EXTGRP:THE WALKING DEAD
+https://links.nanacdn.com/hls/f69074e5ab693989f6addff82e106710/f69074e5ab693989f6addff82e106710.m3u8?secure=01581816151858401c1b16091f56580e13171f58404b4c4a424c4e4b494f4d4d484d07
